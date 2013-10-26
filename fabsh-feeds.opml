@@ -5,20 +5,13 @@
 	</head>
 	<body>
 		<outline text="Angels of Death" title="Angels of Death" type="rss" xmlUrl="http://feeds.feedburner.com/angelsofdeath-mp3" htmlUrl="http://sixgun.org" />
-		<outline text="British Penguins Fan Club's Podcast" title="British Penguins Fan Club's Podcast" type="rss" xmlUrl="http://britpensfanclub.podomatic.com/rss2.xml" htmlUrl="http://britpensfanclub.podomatic.com" />
-		<outline text="DH Unplugged" title="DH Unplugged" type="rss" xmlUrl="http://feeds2.feedburner.com/dhunplugged" htmlUrl="http://www.dhunplugged.com" />
-		<outline text="FLOSS Weekly" title="FLOSS Weekly" type="rss" xmlUrl="http://leoville.tv/podcasts/floss.xml" htmlUrl="http://twit.tv/floss" />
 		<outline text="Free as in Freedom" title="Free as in Freedom" type="rss" xmlUrl="http://faif.us/feeds/cast-mp3" htmlUrl="http://faif.us/cast/" />
 		<outline text="Linux Outlaws" title="Linux Outlaws" type="rss" xmlUrl="http://feeds.feedburner.com/linuxoutlaws" htmlUrl="http://sixgun.org" />
-		<outline text="No Agenda" title="No Agenda" type="rss" xmlUrl="http://www.mevio.com/feeds/noagenda.xml" htmlUrl="http://noagendashow.com" />
 		<outline text="RatholeRadio.org" title="RatholeRadio.org" type="rss" xmlUrl="http://feeds.feedburner.com/RatholeRadio" htmlUrl="http://ratholeradio.org" />
 		<outline text="Rum Doings" title="Rum Doings" type="rss" xmlUrl="http://rumdoings.jellycast.com/podcast/feed/2" htmlUrl="http://www.rumdoings.org" />
 		<outline text="SModcast » Hollywood Babble-On" title="SModcast » Hollywood Babble-On" type="rss" xmlUrl="http://smodcast.com/channels/hollywood-babble-on/feed/" htmlUrl="http://smodcast.com" />
 		<outline text="The Bugle" title="The Bugle" type="rss" xmlUrl="http://feeds.feedburner.com/thebuglefeed" htmlUrl="http://www.thebuglepodcast.com/" />
 		<outline text="The Independent Characters - Warhammer 40k Podcast | Radio" title="The Independent Characters - Warhammer 40k Podcast | Radio" type="rss" xmlUrl="http://theindependentcharacters.com/blog/?feed=podcast" htmlUrl="http://theindependentcharacters.com/blog" />
-		<outline text="The Shaft" title="The Shaft" type="rss" xmlUrl="http://feeds.feedburner.com/TheShaftPodcast" htmlUrl="http://www.theshaftpodcast.com/" />
-		<outline text="The YoGPoD" title="The YoGPoD" type="rss" xmlUrl="http://yogpod.libsyn.com/rss" htmlUrl="http://yogpod.libsyn.com" />
-		<outline text="This Week In Google" title="This Week In Google" type="rss" xmlUrl="http://leo.am/podcasts/twig" htmlUrl="http://twit.tv/twig" />
 		<outline text="Ubuntu Podcast » MP3" title="Ubuntu Podcast » MP3" type="rss" xmlUrl="http://feeds.feedburner.com/UbuntuUkPodcastMp3-high" htmlUrl="http://podcast.ubuntu-uk.org" />
 	</body>
 </opml>
