@@ -12,6 +12,8 @@
 		<outline text="Rum Doings" title="Rum Doings" type="rss" xmlUrl="http://rumdoings.jellycast.com/podcast/feed/2" htmlUrl="http://www.rumdoings.org" />
 		<outline text="Steel Rain" title="Steel Rain" type="rss" xmlUrl="http://sixgun.org/feed/steelrain-mp3" htmlUrl="http://sixgun.org/shows/steelrain" />
 		<outline text="The Bugle" title="The Bugle" type="rss" xmlUrl="http://feeds.feedburner.com/thebuglefeed" htmlUrl="http://www.thebuglepodcast.com/" />
+		<outline text="The Crate &#038; Crowbar" title="The Crate &#038; Crowbar" type="rss" xmlUrl="http://crateandcrowbar.com/feed/podcast/" htmlUrl="http://crateandcrowbar.com/" />
 		<outline text="The Independent Characters" title="The Independent Characters" type="rss" xmlUrl="http://theindependentcharacters.com/blog/?feed=podcast" htmlUrl="http://theindependentcharacters.com/blog" />
+		<outline text="Three Moves Ahead" title="Three Moves Ahead" type="rss" xmlUrl="http://threemovesahead.libsyn.com/rss" htmlUrl="https://www.idlethumbs.net/3ma/" />	
 	</body>
 </opml>
