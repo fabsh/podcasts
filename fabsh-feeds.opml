@@ -10,6 +10,7 @@
 		<outline text="Linux Outlaws" title="Linux Outlaws" type="rss" xmlUrl="http://feeds.feedburner.com/linuxoutlaws" htmlUrl="http://sixgun.org/shows/linuxoutlaws" />
 		<outline text="RatholeRadio.org" title="RatholeRadio.org" type="rss" xmlUrl="http://feeds.feedburner.com/RatholeRadio" htmlUrl="http://ratholeradio.org" />
 		<outline text="Rum Doings" title="Rum Doings" type="rss" xmlUrl="http://rumdoings.jellycast.com/podcast/feed/2" htmlUrl="http://www.rumdoings.org" />
+		<outline text="Steel Rain" title="Steel Rain" type="rss" xmlUrl="http://sixgun.org/feed/steelrain-mp3" htmlUrl="http://sixgun.org/shows/steelrain" />
 		<outline text="The Bugle" title="The Bugle" type="rss" xmlUrl="http://feeds.feedburner.com/thebuglefeed" htmlUrl="http://www.thebuglepodcast.com/" />
 		<outline text="The Independent Characters" title="The Independent Characters" type="rss" xmlUrl="http://theindependentcharacters.com/blog/?feed=podcast" htmlUrl="http://theindependentcharacters.com/blog" />
 	</body>
