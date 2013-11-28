@@ -12,6 +12,5 @@
 		<outline text="Hollywood Babble-On" title="Hollywood Babble-On" type="rss" xmlUrl="http://smodcast.com/channels/hollywood-babble-on/feed/" htmlUrl="http://smodcast.com" />
 		<outline text="The Bugle" title="The Bugle" type="rss" xmlUrl="http://feeds.feedburner.com/thebuglefeed" htmlUrl="http://www.thebuglepodcast.com/" />
 		<outline text="The Independent Characters" title="The Independent Characters" type="rss" xmlUrl="http://theindependentcharacters.com/blog/?feed=podcast" htmlUrl="http://theindependentcharacters.com/blog" />
-		<outline text="Ubuntu Podcast » MP3" title="Ubuntu Podcast » MP3" type="rss" xmlUrl="http://feeds.feedburner.com/UbuntuUkPodcastMp3-high" htmlUrl="http://podcast.ubuntu-uk.org" />
 	</body>
 </opml>
